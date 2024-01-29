@@ -1,4 +1,4 @@
-#Uma API que retorna dados sobre desmatamento da Amazônia
+# Uma API que retorna dados sobre desmatamento da Amazônia
 ----
 
 Este protótipo de API foi criado com o objetivo de entregar um mini-projeto do curso Programadores do Amanhã, que tem ênfase em programação web fullstack.
